@@ -1,0 +1,7 @@
+GOT
+model
+outputs
+pdf2png
+pdfs
+results
+results1

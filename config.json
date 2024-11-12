@@ -1,0 +1,9 @@
+{
+    
+    "./model/model_weight": {
+      "model_type": "got",
+      "model_load_params": {},
+      "call_method": "got_ocr_generation",
+      "call_method_params":{}
+    }
+  }
